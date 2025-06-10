@@ -54,3 +54,4 @@ It displays selected user details such as:
 ---
 
 ## 📸 Output Screenshot
+![Image](https://github.com/user-attachments/assets/f1cb9b21-b857-411d-9984-1c5b91c8fb10)
