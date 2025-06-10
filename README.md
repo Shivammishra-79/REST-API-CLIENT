@@ -1,4 +1,4 @@
-# Codtech Java Internship – Task 1: File Handling Utility
+# Task 2: REST API Client
 
 ---
 
